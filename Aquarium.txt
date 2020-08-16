@@ -1,0 +1,12 @@
+Fish
+Golden Fish
+50
+Accessory
+Prison
+55
+Reptile
+Rep
+33
+Accessory
+Toy
+40
